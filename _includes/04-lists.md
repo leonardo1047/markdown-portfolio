@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Doing math
+* Programming
+* Technology
+* Videogames
+* Taking breaks outdoors
